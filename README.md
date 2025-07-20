@@ -50,7 +50,7 @@ lib/
 1. **Clone the repository**
 
    
-   git clone https://github.com/yourusername/CodeAlphaFlashcardQuiz.git
+   git clone https://github.com/DuaAkbar/CodeAlpha_FlashcardQuizApp
    
 
 2. **Install dependencies**
@@ -67,7 +67,7 @@ lib/
 
 ## 📹 Demo Video
 
-[🔗 Click here to watch the demo on LinkedIn](#)
+[🔗 Click here to watch the demo on LinkedIn]( https://www.linkedin.com/posts/dua-akbar-73686636b_flutter-codealpha-flashcards-activity-7352818790876770304-guVf)
 
 ---
 
